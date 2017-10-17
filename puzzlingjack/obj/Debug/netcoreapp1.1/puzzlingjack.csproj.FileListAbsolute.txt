@@ -1,0 +1,8 @@
+C:\Users\marym\Documents\Dojo\netCore\puzzlingjack\bin\Debug\netcoreapp1.1\puzzlingjack.deps.json
+C:\Users\marym\Documents\Dojo\netCore\puzzlingjack\bin\Debug\netcoreapp1.1\puzzlingjack.runtimeconfig.json
+C:\Users\marym\Documents\Dojo\netCore\puzzlingjack\bin\Debug\netcoreapp1.1\puzzlingjack.runtimeconfig.dev.json
+C:\Users\marym\Documents\Dojo\netCore\puzzlingjack\bin\Debug\netcoreapp1.1\puzzlingjack.dll
+C:\Users\marym\Documents\Dojo\netCore\puzzlingjack\bin\Debug\netcoreapp1.1\puzzlingjack.pdb
+C:\Users\marym\Documents\Dojo\netCore\puzzlingjack\obj\Debug\netcoreapp1.1\puzzlingjack.AssemblyInfo.cs
+C:\Users\marym\Documents\Dojo\netCore\puzzlingjack\obj\Debug\netcoreapp1.1\puzzlingjack.dll
+C:\Users\marym\Documents\Dojo\netCore\puzzlingjack\obj\Debug\netcoreapp1.1\puzzlingjack.pdb

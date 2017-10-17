@@ -1,0 +1,8 @@
+C:\Users\marym\Documents\Dojo\netCore\thirdproj\bin\Debug\netcoreapp1.1\thirdproj.deps.json
+C:\Users\marym\Documents\Dojo\netCore\thirdproj\bin\Debug\netcoreapp1.1\thirdproj.runtimeconfig.json
+C:\Users\marym\Documents\Dojo\netCore\thirdproj\bin\Debug\netcoreapp1.1\thirdproj.runtimeconfig.dev.json
+C:\Users\marym\Documents\Dojo\netCore\thirdproj\bin\Debug\netcoreapp1.1\thirdproj.dll
+C:\Users\marym\Documents\Dojo\netCore\thirdproj\bin\Debug\netcoreapp1.1\thirdproj.pdb
+C:\Users\marym\Documents\Dojo\netCore\thirdproj\obj\Debug\netcoreapp1.1\thirdproj.AssemblyInfo.cs
+C:\Users\marym\Documents\Dojo\netCore\thirdproj\obj\Debug\netcoreapp1.1\thirdproj.dll
+C:\Users\marym\Documents\Dojo\netCore\thirdproj\obj\Debug\netcoreapp1.1\thirdproj.pdb

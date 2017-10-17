@@ -1,0 +1,8 @@
+C:\Users\marym\Documents\Dojo\netCore\firstproj\bin\Debug\netcoreapp1.1\firstproj.deps.json
+C:\Users\marym\Documents\Dojo\netCore\firstproj\bin\Debug\netcoreapp1.1\firstproj.runtimeconfig.json
+C:\Users\marym\Documents\Dojo\netCore\firstproj\bin\Debug\netcoreapp1.1\firstproj.runtimeconfig.dev.json
+C:\Users\marym\Documents\Dojo\netCore\firstproj\bin\Debug\netcoreapp1.1\firstproj.dll
+C:\Users\marym\Documents\Dojo\netCore\firstproj\bin\Debug\netcoreapp1.1\firstproj.pdb
+C:\Users\marym\Documents\Dojo\netCore\firstproj\obj\Debug\netcoreapp1.1\firstproj.AssemblyInfo.cs
+C:\Users\marym\Documents\Dojo\netCore\firstproj\obj\Debug\netcoreapp1.1\firstproj.dll
+C:\Users\marym\Documents\Dojo\netCore\firstproj\obj\Debug\netcoreapp1.1\firstproj.pdb

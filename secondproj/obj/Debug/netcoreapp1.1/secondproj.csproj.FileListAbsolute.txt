@@ -1,0 +1,8 @@
+C:\Users\marym\Documents\Dojo\netCore\secondproj\bin\Debug\netcoreapp1.1\secondproj.deps.json
+C:\Users\marym\Documents\Dojo\netCore\secondproj\bin\Debug\netcoreapp1.1\secondproj.runtimeconfig.json
+C:\Users\marym\Documents\Dojo\netCore\secondproj\bin\Debug\netcoreapp1.1\secondproj.runtimeconfig.dev.json
+C:\Users\marym\Documents\Dojo\netCore\secondproj\bin\Debug\netcoreapp1.1\secondproj.dll
+C:\Users\marym\Documents\Dojo\netCore\secondproj\bin\Debug\netcoreapp1.1\secondproj.pdb
+C:\Users\marym\Documents\Dojo\netCore\secondproj\obj\Debug\netcoreapp1.1\secondproj.AssemblyInfo.cs
+C:\Users\marym\Documents\Dojo\netCore\secondproj\obj\Debug\netcoreapp1.1\secondproj.dll
+C:\Users\marym\Documents\Dojo\netCore\secondproj\obj\Debug\netcoreapp1.1\secondproj.pdb
