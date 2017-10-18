@@ -6,3 +6,11 @@ C:\Users\marym\Documents\Dojo\netCore\deckofcards\bin\Debug\netcoreapp1.1\deckof
 C:\Users\marym\Documents\Dojo\netCore\deckofcards\obj\Debug\netcoreapp1.1\deckofcards.AssemblyInfo.cs
 C:\Users\marym\Documents\Dojo\netCore\deckofcards\obj\Debug\netcoreapp1.1\deckofcards.dll
 C:\Users\marym\Documents\Dojo\netCore\deckofcards\obj\Debug\netcoreapp1.1\deckofcards.pdb
+c:\Users\marym\Documents\Dojo\netCore\basics\deckofcards\bin\Debug\netcoreapp1.1\deckofcards.deps.json
+c:\Users\marym\Documents\Dojo\netCore\basics\deckofcards\bin\Debug\netcoreapp1.1\deckofcards.runtimeconfig.json
+c:\Users\marym\Documents\Dojo\netCore\basics\deckofcards\bin\Debug\netcoreapp1.1\deckofcards.runtimeconfig.dev.json
+c:\Users\marym\Documents\Dojo\netCore\basics\deckofcards\bin\Debug\netcoreapp1.1\deckofcards.dll
+c:\Users\marym\Documents\Dojo\netCore\basics\deckofcards\bin\Debug\netcoreapp1.1\deckofcards.pdb
+c:\Users\marym\Documents\Dojo\netCore\basics\deckofcards\obj\Debug\netcoreapp1.1\deckofcards.AssemblyInfo.cs
+c:\Users\marym\Documents\Dojo\netCore\basics\deckofcards\obj\Debug\netcoreapp1.1\deckofcards.dll
+c:\Users\marym\Documents\Dojo\netCore\basics\deckofcards\obj\Debug\netcoreapp1.1\deckofcards.pdb

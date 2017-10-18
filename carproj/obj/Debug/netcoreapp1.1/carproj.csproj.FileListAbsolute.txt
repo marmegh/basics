@@ -1,0 +1,8 @@
+c:\Users\marym\Documents\Dojo\netCore\basics\carproj\bin\Debug\netcoreapp1.1\carproj.deps.json
+c:\Users\marym\Documents\Dojo\netCore\basics\carproj\bin\Debug\netcoreapp1.1\carproj.runtimeconfig.json
+c:\Users\marym\Documents\Dojo\netCore\basics\carproj\bin\Debug\netcoreapp1.1\carproj.runtimeconfig.dev.json
+c:\Users\marym\Documents\Dojo\netCore\basics\carproj\bin\Debug\netcoreapp1.1\carproj.dll
+c:\Users\marym\Documents\Dojo\netCore\basics\carproj\bin\Debug\netcoreapp1.1\carproj.pdb
+c:\Users\marym\Documents\Dojo\netCore\basics\carproj\obj\Debug\netcoreapp1.1\carproj.AssemblyInfo.cs
+c:\Users\marym\Documents\Dojo\netCore\basics\carproj\obj\Debug\netcoreapp1.1\carproj.dll
+c:\Users\marym\Documents\Dojo\netCore\basics\carproj\obj\Debug\netcoreapp1.1\carproj.pdb
