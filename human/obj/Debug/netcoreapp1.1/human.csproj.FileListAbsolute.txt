@@ -6,3 +6,11 @@ C:\Users\marym\Documents\Dojo\netCore\human\bin\Debug\netcoreapp1.1\human.pdb
 C:\Users\marym\Documents\Dojo\netCore\human\obj\Debug\netcoreapp1.1\human.AssemblyInfo.cs
 C:\Users\marym\Documents\Dojo\netCore\human\obj\Debug\netcoreapp1.1\human.dll
 C:\Users\marym\Documents\Dojo\netCore\human\obj\Debug\netcoreapp1.1\human.pdb
+c:\Users\marym\Documents\Dojo\netCore\basics\human\bin\Debug\netcoreapp1.1\human.deps.json
+c:\Users\marym\Documents\Dojo\netCore\basics\human\bin\Debug\netcoreapp1.1\human.runtimeconfig.json
+c:\Users\marym\Documents\Dojo\netCore\basics\human\bin\Debug\netcoreapp1.1\human.runtimeconfig.dev.json
+c:\Users\marym\Documents\Dojo\netCore\basics\human\obj\Debug\netcoreapp1.1\human.AssemblyInfo.cs
+c:\Users\marym\Documents\Dojo\netCore\basics\human\obj\Debug\netcoreapp1.1\human.dll
+c:\Users\marym\Documents\Dojo\netCore\basics\human\obj\Debug\netcoreapp1.1\human.pdb
+c:\Users\marym\Documents\Dojo\netCore\basics\human\bin\Debug\netcoreapp1.1\human.dll
+c:\Users\marym\Documents\Dojo\netCore\basics\human\bin\Debug\netcoreapp1.1\human.pdb

@@ -7042,16 +7042,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\marym\\Documents\\Dojo\\netCore\\basics\\human\\human.csproj",
+      "projectUniqueName": "C:\\Users\\marym\\Documents\\Dojo\\netCore\\basics\\human\\human.csproj",
       "projectName": "human",
-      "projectPath": "c:\\Users\\marym\\Documents\\Dojo\\netCore\\basics\\human\\human.csproj",
-      "outputPath": "c:\\Users\\marym\\Documents\\Dojo\\netCore\\basics\\human\\obj\\",
+      "projectPath": "C:\\Users\\marym\\Documents\\Dojo\\netCore\\basics\\human\\human.csproj",
+      "outputPath": "C:\\Users\\marym\\Documents\\Dojo\\netCore\\basics\\human\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/human.dll": "c:\\Users\\marym\\Documents\\Dojo\\netCore\\basics\\human\\bin\\placeholder\\netcoreapp1.1\\human.dll"
+        "lib/netcoreapp1.1/human.dll": "C:\\Users\\marym\\Documents\\Dojo\\netCore\\basics\\human\\bin\\placeholder\\netcoreapp1.1\\human.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
